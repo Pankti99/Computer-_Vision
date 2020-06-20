@@ -1,4 +1,4 @@
-# Computer-_Vision
+# Computer_Vision
 This repository contains basic image processing operations
 
 Morphology:
