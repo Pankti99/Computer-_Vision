@@ -15,3 +15,12 @@ Morphology:
 (2) Dilation:
 
 => It enlarges the foreground and shrinks  the background.Add pixels to the object boundaries. areas of the foreground pixels grow in size      while holes within these regions becomes smaller.
+
+(3) Opening:
+
+=> Smoothing contours and eliminates protrusions. used for spot and noise removal. performed by erosion and next dialtion. reduces salt noise.
+
+
+(4) Closing:
+
+=> Smoothin sections of contours , fuses narrow breaks,fill gaps in contours. used for removal of holes. performed by dialtion and next erosion. reduces pepper noise.
