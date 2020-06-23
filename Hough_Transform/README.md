@@ -5,8 +5,10 @@ Hough Transform
 
 For detail understanding watch the following videos:
 
-<\n>https://youtu.be/4zHbI-fFIlI<\n>
+https://youtu.be/4zHbI-fFIlI
 
-<\n>https://youtu.be/5gik4qtNoNo<\n>
+https://youtu.be/5gik4qtNoNo
+
 https://youtu.be/Lbu9SnoucW4
+
 https://youtu.be/ebfi7qOFLuo
