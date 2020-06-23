@@ -5,7 +5,8 @@ Hough Transform
 
 For detail understanding watch the following videos:
 
-https://youtu.be/4zHbI-fFIlI
-https://youtu.be/5gik4qtNoNo
+<\n>https://youtu.be/4zHbI-fFIlI<\n>
+
+<\n>https://youtu.be/5gik4qtNoNo<\n>
 https://youtu.be/Lbu9SnoucW4
 https://youtu.be/ebfi7qOFLuo
