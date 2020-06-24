@@ -7,7 +7,7 @@
 
 cv2.cornerHarris(src, blockSize, ksize, k) 
 
-##Parameters Explained:	
+## Parameters Explained:	
 
     src – Input single-channel 8-bit or floating-point image.
     dst – Image to store the Harris detector responses. It has the type CV_32FC1 and the same size as src .
@@ -17,6 +17,6 @@ cv2.cornerHarris(src, blockSize, ksize, k)
 
 
 
-###For better understanding refer to this pdf:
+### For better understanding refer to this pdf:
 
 http://www.cse.psu.edu/~rtc12/CSE486/lecture06.pdf
