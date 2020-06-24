@@ -13,13 +13,13 @@
 ## Parameters Explained:
 
 
-    dst: Output of the edge detector. It should be a grayscale image (although in fact it is a binary one)
-    lines: A vector that will store the parameters (x_{start}, y_{start}, x_{end}, y_{end}) of the detected lines
-    rho : The resolution of the parameter r in pixels. We use 1 pixel.
-    theta: The resolution of the parameter \theta in radians. We use 1 degree (CV_PI/180)
-    threshold: The minimum number of intersections to “detect” a line
-    minLinLength: The minimum number of points that can form a line. Lines with less than this number of points are disregarded.
-    maxLineGap: The maximum gap between two points to be considered in the same line.
+    ## dst :## Output of the edge detector. It should be a grayscale image (although in fact it is a binary one)
+    ## lines: ## A vector that will store the parameters (x_{start}, y_{start}, x_{end}, y_{end}) of the detected lines
+    ## rho :## The resolution of the parameter r in pixels. We use 1 pixel.
+    ## theta:## The resolution of the parameter \theta in radians. We use 1 degree (CV_PI/180)
+    ## threshold:## The minimum number of intersections to “detect” a line
+    ## minLinLength:## The minimum number of points that can form a line. Lines with less than this number of points are disregarded.
+    ## maxLineGap:## The maximum gap between two points to be considered in the same line.
 
 
 
