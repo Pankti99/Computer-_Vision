@@ -20,3 +20,5 @@ cv2.cornerHarris(src, blockSize, ksize, k)
 ### For better understanding refer to this pdf:
 
 http://www.cse.psu.edu/~rtc12/CSE486/lecture06.pdf
+
+https://www.youtube.com/watch?v=KH8Mq9FPVPw
